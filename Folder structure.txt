@@ -3,7 +3,7 @@ HostelManagementSystem/
 │   ├── __init__.py
 │   ├── hostel_management_system.py
 │   ├── gui.py
-├── README.md
-├── requirements.txt
 ├── .gitignore
-└── Folder structure.txt
+├── Folder structure.txt
+├── README.md
+└── requirements.txt

@@ -1,4 +1,3 @@
-```markdown
 # Hostel Management System
 
 A simple hostel management system built with Tkinter for the GUI and MongoDB for the database.
@@ -10,26 +9,6 @@ A simple hostel management system built with Tkinter for the GUI and MongoDB for
 - **Update Room Capacity:** Modify the capacity of existing rooms.
 - **Delete Rooms:** Remove rooms from the system.
 - **Occupy/Unoccupy Rooms:** Mark rooms as occupied or unoccupied.
-
-## Project Structure
-
-```
-HostelManagementSystem/
-├── src/
-│   ├── __init__.py
-│   ├── hostel_management_system.py
-│   ├── gui.py
-├── README.md
-├── requirements.txt
-├── .gitignore
-```
-
-- `src/`: Contains the source code for the project.
-  - `hostel_management_system.py`: Logic for managing hostel rooms.
-  - `gui.py`: Graphical user interface using Tkinter.
-- `README.md`: Project overview and setup instructions.
-- `requirements.txt`: List of project dependencies.
-- `.gitignore`: Specifies files and directories to be ignored by git.
 
 ## Installation
 

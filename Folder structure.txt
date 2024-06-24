@@ -1,9 +1,9 @@
 HostelManagementSystem/
 ├── src/
 │   ├── __init__.py
-│   ├── hostel_management_system.py
-│   ├── gui.py
-├── .gitignore
+│   ├── hostel_management_system.py  #Logic for managing hostel rooms.
+│   ├── gui.py                       #Graphical user interface using Tkinter.
+├── .gitignore                       #Specifies files and directories to be ignored by git.
 ├── Folder structure.txt
 ├── README.md
 └── requirements.txt

@@ -84,3 +84,7 @@ You can install these dependencies using the `requirements.txt` file provided.
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
+
+## Screenshots
+
+![image](https://github.com/SanyaB1801/hostel_management_system/assets/64143038/d6eb9aa8-8d6c-45c4-8310-48e25c6dd4ed)
